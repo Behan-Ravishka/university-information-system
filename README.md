@@ -78,10 +78,10 @@ Please follow proper coding practices and UI consistency.
 
 ## 🙋‍♂️ Project Members
 
-- U.D.Rajeewa 
+- U.D.Rajeewa http://www.linkedin.com/in/dulshanrajeewa
 - M.P.B.R.Perera https://www.linkedin.com/in/behanravishkaperera
-- I.G.S.B.Rupasingha
-- N.N.D.Piumantha
+- I.G.S.B.Rupasingha http://www.linkedin.com/in/sankharupasingha
+- N.N.D.Piumantha http://www.linkedin.com/in/dilumpiumantha
 - V.H.Hendavitharana
 - D.Samarasekara
 
