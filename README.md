@@ -82,7 +82,7 @@ Please follow proper coding practices and UI consistency.
 - M.P.B.R.Perera https://www.linkedin.com/in/behanravishkaperera
 - I.G.S.B.Rupasingha http://www.linkedin.com/in/sankharupasingha
 - N.N.D.Piumantha http://www.linkedin.com/in/dilumpiumantha
-- V.H.Hendavitharana
+- V.H.Hendavitharana http://www.linkedin.com/in/venurihendavitharana
 - D.Samarasekara
 
 ---
