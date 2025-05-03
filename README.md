@@ -89,12 +89,12 @@ Please follow proper coding practices and UI consistency.
 
 ## 📸 Screenshots
 
-![Login Interface](https://github.com/user-attachments/assets/e8e405e6-2c15-41e7-9725-0bd2693b8cae)
-![Student Dashboard](https://github.com/user-attachments/assets/64da9c87-bc94-4d3e-abc3-d1bc585324d7)
-![Lecturer Dashboard](https://github.com/user-attachments/assets/fc0a62eb-2cd8-453a-b81a-c192a9ee4fbf)
-![Management Dashbaord](https://github.com/user-attachments/assets/a42a8d1b-0bd8-41d7-8808-7d61d3bb67c7)
-![Manage Assistant Lecturers](https://github.com/user-attachments/assets/79a06d42-de9c-4a30-b0ac-b4af7e560a42)
-![Admin Dashboard](https://github.com/user-attachments/assets/918e454d-0f46-4add-b06c-c2cd19b9cea3)
+![Login Interface](https://github.com/user-attachments/assets/f1e09529-fc25-445d-b151-b6a596ac265d)
+![Student Dashboard](https://github.com/user-attachments/assets/4343fe72-b5e4-409a-ab0e-5481d61161ec)
+![Lecturer Dashboard](https://github.com/user-attachments/assets/4fb38fcd-7eef-4737-b8cb-0b69989b2ec0)
+![Management Dashbaord](https://github.com/user-attachments/assets/6e62ea30-0cad-4cc4-b28f-c8409e2416d4)
+![Manage Assistant Lecturers](https://github.com/user-attachments/assets/8dc8afdc-7962-4437-821d-0e1a830d7f40)
+![Admin Dashboard](https://github.com/user-attachments/assets/d187b684-594b-41c3-bdde-a4232501e309)
 
 ---
 
